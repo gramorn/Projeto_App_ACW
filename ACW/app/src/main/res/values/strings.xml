@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ACW</string>
+    <string name="app_Title">Accessible Commercial Websites</string>
+    <string name="app_text">ACW (Acessible Commercial Websites) É uma empresa que foi criada em 2020 por alunos da Universidade Nove de Julho, É voltada à criação de Websites para pequenas empresas, no intuito de ajudá-las a fornecer seus serviços de forma mais atrativa ao consumidor, e por um preço mais acessível, visto que possuir site aumenta a visibilidade da empresa, é uma ótima forma de publicidade e confere vantagem competitiva. A empresa é apta a se adequar as necessidades e preferências dos clientes e por possuir preços mais baixos se torna uma ótima opção para empresas que iniciaram seus trabalhos recentemente.</string>
+    <string name="app_Orcamento">Orçamentos</string>
+    <string name="app_Trabalhe">Trabalhe Conosco</string>
+
+    <string name="hint_Nome">Nome</string>
+    <string name="hint_Telefone">Telefone</string>
+    <string name="hint_Email">E-mail</string>
+    <string name="hint_Info">Descreva o máximo que puder sobre o site que deseja..</string>
+    <string name="btEnviar">Enviar</string>
+    <string name="hint_Endereco">Endereço: Ex: Rua Java, 69 - São Paulo, SP</string>
+    <string name="trabalhe_Entraremos">*Entraremos em contato para pedir mais informações.</string>
+
+</resources>
