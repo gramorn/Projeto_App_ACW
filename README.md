@@ -1,7 +1,7 @@
 # ACW - Accessible Commercial Websites
 Projeto do segundo semestre de TADS - Uninove 2020
 
-Um aplicativo android feito no Android Studio.
+Um aplicativo android feito no Android Studio com Java e BD.
 
 ![main](https://cdn.discordapp.com/attachments/513134190045298689/783344439925145610/unknown.png)
 ![orcamento_tab](https://cdn.discordapp.com/attachments/513134190045298689/783344547987718174/unknown.png)
